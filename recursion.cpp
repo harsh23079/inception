@@ -17,7 +17,7 @@ void printArray(int arr[], int size)
     // Print Array
     cout << "The array of size " << size << " is: " << endl;
     for(int i=0;i<size;++i)
-        cout << arr[i] << ' ';
+        cout << arr[i] << " ";
     cout << endl;
 }
 
